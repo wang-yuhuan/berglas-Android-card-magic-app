@@ -1,0 +1,26 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+.tools/
+*.jks
+*.keystore
+dist/
+
+# Local rehearsal notes and historical diagnostics (not public documentation)
+docs/PRIVATE_NOTES.md
+docs/VERIFICATION.md
+docs/ROADMAP.md
+docs/test-reports/
+docs/performance/
+docs/screenshots/
+*.log
+.env
+.env.*
+!.env.example
+key.properties
+keystore.properties
+.DS_Store
+Thumbs.db
