@@ -1,22 +1,45 @@
-MIT License
+berglas 非商业源码许可 / berglas Non-Commercial Source License
+Version 1.0 — 2026-09-17
+Copyright (c) 2026 berglas authors and contributors
 
-Copyright (c) 2026 berglas contributors
+中文条款
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. 适用范围
+本许可适用于随附本许可的项目自有代码、文档和作者有权许可的原创素材（下称“软件”）。明确标注单独许可的第三方内容不在本许可限制范围内。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. 非商业授权
+在遵守本许可的前提下，允许为非商业目的免费使用、学习、复制、修改和分发软件。分发原版或修改版时，必须保留版权声明和完整许可文本，明确标注所作修改，不得暗示作者为修改版背书。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. 商业使用须另行授权
+未经作者事先书面许可，禁止商业使用软件或其修改版本，包括出售或收费分发、集成到商业产品或服务、用于付费演出、收费教学、广告推广及其他主要以商业利益或金钱报酬为目的的活动。商业授权请联系微信（vx）：w2790382370。公开下载、获得源码或向项目贡献代码本身不构成商业授权。
 
+4. 第三方与历史版本
+第三方牌面、Gradle Wrapper 及其他依赖继续适用其各自许可，本许可不撤销或限制这些许可已经授予的权利。本许可不追溯撤销此前版本依其原许可已经授予的权利。此前发布的 MIT 版本仍适用其原许可。
+
+5. 无担保
+在适用法律允许的范围内，软件按原样提供，不附带任何明示或默示担保。作者及贡献者不对因使用软件导致的损失或责任承担责任。
+
+6. 保留权利
+未明确授予的权利予以保留。本许可不授予商标使用权。它含非商业限制，是源码公开许可，不是 MIT 许可或 OSI 批准的开源许可。
+中英文条款表达同一许可；如有歧义，以中文条款为准。
+
+English terms
+
+1. Scope
+This license covers project-owned code, documentation, and original assets that the authors are entitled to license and that are accompanied by this license (the "Software"). Third-party material identified under separate licenses is excluded from these restrictions.
+
+2. Non-commercial permission
+Subject to these terms, you may use, study, copy, modify, and distribute the Software free of charge for non-commercial purposes. When distributing original or modified copies, retain copyright notices and this complete license, clearly identify modifications, and do not imply author endorsement of modified versions.
+
+3. Separate permission for commercial use
+Commercial use of the Software or modified versions requires prior written permission from the author. This includes sale or paid distribution, integration into commercial products or services, paid performances, commercial teaching, advertising, and other activities primarily intended for commercial advantage or monetary compensation. For permission, contact WeChat (vx): w2790382370. Public availability, receipt of source code, or contributing code does not itself grant commercial permission.
+
+4. Third parties and historical versions
+Third-party card assets, the Gradle Wrapper, and other dependencies retain their respective licenses. This license does not revoke or restrict rights already granted under those licenses. It does not retroactively revoke rights granted under licenses of earlier versions. Previously released MIT-licensed versions remain under their original license.
+
+5. No warranty
+To the extent permitted by applicable law, the Software is provided as-is without express or implied warranties. Authors and contributors are not liable for loss or liability arising from use of the Software.
+
+6. Reserved rights
+Rights not expressly granted are reserved. No trademark rights are granted. This is a source-available license with a non-commercial restriction, not the MIT license or an OSI-approved open-source license.
+Both language versions describe the same license; the Chinese terms prevail in case of ambiguity.

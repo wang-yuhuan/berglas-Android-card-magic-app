@@ -28,8 +28,8 @@ The tabletop is procedurally generated: artwork/wood_table.svg is the source, an
 
 ## 许可范围 / Licensing scope
 
-项目自有代码及程序绘制素材适用根目录 MIT 许可；第三方牌面保留其独立许可。AI 生成牌背按原样随项目提供，不作独占权利承诺。
-Project-owned code and procedurally drawn assets use the root MIT license. Third-party card faces retain their separate license. AI-generated backs are provided as-is without a claim of exclusive rights.
+项目自有代码及程序绘制素材适用根目录非商业源码许可；第三方牌面保留其独立许可。AI 生成牌背按原样随项目提供，不作独占权利承诺。
+Project-owned code and procedurally drawn assets use the root non-commercial source license. Third-party card faces retain their separate license. AI-generated backs are provided as-is without a claim of exclusive rights.
 
 Gradle Wrapper 的许可文本见 [GRADLE_LICENSE.txt](GRADLE_LICENSE.txt)。AndroidX 与 Kotlin 依赖通过 Gradle 解析，不将本机依赖缓存提交到仓库。
 See [GRADLE_LICENSE.txt](GRADLE_LICENSE.txt) for the Gradle Wrapper license. AndroidX and Kotlin dependencies are resolved through Gradle; local dependency caches are not committed.

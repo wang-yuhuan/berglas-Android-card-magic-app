@@ -10,6 +10,18 @@ This independent project is unaffiliated with any person, brand, or organization
 
 <p align="center"><img src="docs/images/table.png" width="280" alt="berglas cards on a wooden tabletop"></p>
 
+## The effect: ACAAN
+
+berglas is a card-performance tool for Berglas / **ACAAN (Any Card At Any Number)** style magic.
+
+A spectator freely names a playing card, such as the **7 of Hearts**, and a number from **1 to 52**, such as **23**. The magician takes out a deck and counts down to the 23rd card. It is the 7 of Hearts.
+
+**The spectator chooses the card and the number, yet that very card is at that exact position.**
+
+This describes the classic effect and the project's performance direction. The current version is an interactive card tool for use within a performer's routine; it does not yet offer number entry followed by automatic counting. Public documentation does not explain the method.
+
+**Source available for non-commercial use only. Commercial use requires prior written permission from the author.** See the [license](LICENSE).
+
 ## Features
 
 - Offline operation: no account, server, or internet permission.
@@ -32,7 +44,7 @@ If no release is available, follow the [development guide](docs/DEVELOPMENT.md).
 3. Tap the same card twice with one finger to reveal it.
 4. Double-tap an empty area to spread the deck and retrieve off-screen cards.
 
-Public documentation covers visible interactions and development without explaining the performance method. Full source is included; open source does not keep implementation details confidential.
+Public documentation covers visible interactions and development without explaining the performance method. Full source is included; publishing source does not keep implementation details confidential.
 
 ## Development and contributions
 
@@ -48,7 +60,13 @@ Current source version: **2.2.1**. The repository is presented as berglas. The e
 
 ## License
 
-Project-owned code uses the [MIT License](LICENSE). Third-party artwork and the Gradle Wrapper retain their respective licenses; see [asset notes](docs/ASSETS.md).
+Current project-owned code uses the [berglas Non-Commercial Source License](LICENSE), permitting non-commercial study, use, modification, and sharing. **Commercial use requires prior written permission from the author**, including paid distribution, commercial product or service integration, paid performances, and commercial teaching.
+
+This is a source-available project with a non-commercial restriction, not an OSI-approved open-source license. Third-party assets and the Gradle Wrapper retain their own licenses; see [asset notes](docs/ASSETS.md). Previously MIT-licensed versions are not retroactively affected.
+
+## Support the project
+
+If you enjoy the app, share it with fellow magicians and give the project a **Star ⭐**. Your support and feedback help the project improve.
 
 ## Contact and collaboration
 

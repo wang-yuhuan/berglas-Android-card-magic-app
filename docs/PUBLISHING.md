@@ -14,6 +14,9 @@ berglas
 
 English: An offline Android card-magic app built with Kotlin and Jetpack Compose, featuring 52 draggable cards, double-tap reveals, and red/blue decks.
 
+当前源码采用非商业源码许可，未经作者书面许可禁止商用；旧版 v2.2.1 发布记录仍对应此前的 MIT 版本。
+Current source uses a non-commercial source license; commercial use requires prior written permission. The existing v2.2.1 release still corresponds to the earlier MIT version.
+
 ## Topics
 
 android, kotlin, jetpack-compose, magic, playing-cards, offline
@@ -29,8 +32,8 @@ android, kotlin, jetpack-compose, magic, playing-cards, offline
 4. 在仓库 About 填入上方简介；创建 Release 并上传 APK。
    Add the description above to About; create a Release and attach the APK.
 
-上传包保留隐藏文件 .gitignore，包含源代码和所需素材，不含 SDK、JDK、缓存、内部笔记、旧报告或 APK。未代你创建或发布远程仓库。
-The upload package includes .gitignore, source, and required assets. It excludes SDKs, JDKs, caches, internal notes, old reports, and APKs. No remote repository has been created or published on your behalf.
+上传包保留隐藏文件 .gitignore，包含源代码和所需素材，不含 SDK、JDK、缓存、内部笔记、旧报告或 APK。仓库现已公开，后续修改应提交到已关联的本地仓库。
+The upload package includes .gitignore, source, and required assets. It excludes SDKs, JDKs, caches, internal notes, old reports, and APKs. The repository is now public; commit future changes through the linked local repository.
 
 请不要将旧版 AtelierCards-source.zip 作为此次公开源码包，它可能包含历史开发说明。
 Do not use an older AtelierCards-source.zip as the public source package; it may contain historical development notes.

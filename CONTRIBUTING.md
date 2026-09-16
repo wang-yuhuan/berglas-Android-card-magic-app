@@ -16,6 +16,14 @@ Issues and pull requests improving performance, interaction, artwork, accessibil
 
 构建方法 / Build instructions: [Development](docs/DEVELOPMENT.md)。
 
+## 许可与支持 / Licensing and support
+
+贡献前请阅读 [非商业源码许可](LICENSE)。提交贡献即表示你有权提交该内容，并同意按本项目现行许可分发该贡献；这不转让你的版权，也不授予维护者额外的商业再许可权。
+Read the [non-commercial source license](LICENSE) before contributing. By submitting a contribution, you confirm your right to contribute it and agree to distribution under the current project license. This does not transfer copyright or grant maintainers additional commercial relicensing rights.
+
+如果觉得软件好用，欢迎推荐给其他魔术爱好者，并为项目点一个 **Star ⭐**。
+If you enjoy the app, share it with fellow magicians and give the project a **Star ⭐**.
+
 ## 联系与合作 / Contact and collaboration
 
 如果你对魔术软件开发感兴趣，或希望交流与合作，请加微信（vx）：**w2790382370**。
